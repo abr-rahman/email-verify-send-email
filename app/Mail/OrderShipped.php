@@ -30,7 +30,7 @@ class OrderShipped extends Mailable
     {
         return new Envelope(
             from: new Address('mdabdurrahman542@gmail.com', 'Ar'),
-            subject: 'Order Shipped',
+            subject: 'Welcome From Update Email Varification',
         );
     }
 
