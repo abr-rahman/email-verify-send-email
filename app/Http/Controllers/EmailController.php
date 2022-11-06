@@ -31,7 +31,7 @@ class EmailController extends Controller
         'title' => $request->title,
         'subject' => $request->subject,
         ];
-        Mail::to('mdabdurrahman542@gmail.com')->send(new OrderShipped($time));
+        Mail::to($request->to)->send(new OrderShipped($time));
         return back()->with('success', 'Your email send successfully!');
     }
 }

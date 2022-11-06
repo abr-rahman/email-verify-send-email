@@ -20,14 +20,18 @@
                 <h1>Email form</h1>
                     <form class="form" action="{{ route('email.store') }}" method="post">
                         @csrf
-                        <label class="name">
+                        <label class="mail_to">
+                            <input type="email" name="to" autocomplete="off" required>
+                        </label>
+                        <label class="title">
                             <input type="text" name="title" autocomplete="off" required>
                         </label>
-                        <label class="password">
+                        <label class="name">
                             <input type="text" name="name" autocomplete="off" required>
                         </label>
                         <label class="subject">
-                            <input type="text" name="subject" autocomplete="off">
+                            <textarea name="subject" autocomplete="off" required></textarea>
+                            {{-- <input type="text" name="subject" autocomplete="off" required> --}}
                         </label>
                         <input type="submit" value="Submit">
                         {{-- <div class="new">
