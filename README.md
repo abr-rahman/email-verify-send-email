@@ -64,3 +64,14 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+Dear Chairman,
+I am writing this letter to formally inform you that I am resigning from my position as Laravel Developer at SpeedDigit Pvt. Ltd. My last day of work will be 31-03-2023.
+Unfortunately, I am facing some financial difficulties that have become increasingly challenging to manage. While I have enjoyed my time working at SpeedDigit Pvt. Ltd.and have gained invaluable experience, I have come to the difficult decision that I need to prioritize my financial well-being at this time.
+I want to express my gratitude to you and the rest of the team for the support, encouragement, and opportunities you have provided me during my time here. I have learned a lot and am grateful for the experiences that I have had while working with such a great team.
+I will do my best to ensure a smooth transition during my remaining time at the company. I am willing to assist in training a replacement and completing any outstanding tasks that need to be taken care of before my departure.
+Thank you for understanding my situation and for the opportunities that you have provided me with. If there is anything else that I can do to help during this time, please do not hesitate to let me know.
+
+Sincerely,
+Abdur Rahman
